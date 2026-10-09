@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365240Z
+addr = 0xf8eab0
+size = 0x4b
+name = "GameStateAPI_GetAllPlayersMatchDataJSO"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetAllPlayersMatchDataJSO"
+addr = 0xf8eab0
+type = "long long"
+
+[header.args]

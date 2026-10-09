@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365252Z
+addr = 0xf90f20
+size = 0xef
+name = "GameStateAPI_GetCharacterDefaultDefeatByXuid"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetCharacterDefaultDefeatByXuid"
+addr = 0xf90f20
+type = "char *"
+
+[header.args]

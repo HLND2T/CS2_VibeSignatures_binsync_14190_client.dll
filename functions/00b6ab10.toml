@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:05.729204Z
+addr = 0xb6ab10
+size = 0xe
+name = "CSource2Client_CreateMove"
+type = "long long"
+
+[header]
+name = "CSource2Client_CreateMove"
+addr = 0xb6ab10
+type = "long long"
+
+[header.args]

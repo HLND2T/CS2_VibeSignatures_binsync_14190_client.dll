@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365429Z
+addr = 0xfb8010
+size = 0xd3
+name = "GameStateAPI_HasCommunicationAbuseMute"
+type = "bool"
+
+[header]
+name = "GameStateAPI_HasCommunicationAbuseMute"
+addr = 0xfb8010
+type = "bool"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365248Z
+addr = 0xf8f0e0
+size = 0x6a
+name = "GameStateAPI_GetCSGOGameUIStateName"
+type = "const char *"
+
+[header]
+name = "GameStateAPI_GetCSGOGameUIStateName"
+addr = 0xf8f0e0
+type = "const char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365280Z
+addr = 0xf92b50
+size = 0xa6
+name = "GameStateAPI_GetCrosshairCode"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetCrosshairCode"
+addr = 0xf92b50
+type = "char *"
+
+[header.args]

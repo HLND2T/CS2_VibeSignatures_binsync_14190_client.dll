@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:12.687072Z
+addr = 0x19a58b0
+size = 0x1bc
+name = "ConnectInterfaces"
+type = "long long"
+
+[header]
+name = "ConnectInterfaces"
+addr = 0x19a58b0
+type = "long long"
+
+[header.args]

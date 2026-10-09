@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365395Z
+addr = 0xfacda0
+size = 0xac
+name = "GameStateAPI_GetPlayerXpLevel"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerXpLevel"
+addr = 0xfacda0
+type = "long long"
+
+[header.args]

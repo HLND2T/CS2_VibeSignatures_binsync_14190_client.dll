@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365526Z
+addr = 0x15aafd0
+size = 0x7e
+name = "CEntitySystem_CreateEntitySystem"
+type = "long long"
+
+[header]
+name = "CEntitySystem_CreateEntitySystem"
+addr = 0x15aafd0
+type = "long long"
+
+[header.args]

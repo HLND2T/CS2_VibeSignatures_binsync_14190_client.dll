@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:08.010579Z
+addr = 0xfa3bf0
+size = 0x978
+name = "GameStateAPI_GetMatchInfoJSO"
+type = "void"
+
+[header]
+name = "GameStateAPI_GetMatchInfoJSO"
+addr = 0xfa3bf0
+type = "void"
+
+[header.args]

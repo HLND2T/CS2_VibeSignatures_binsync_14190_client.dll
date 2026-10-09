@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365514Z
+addr = 0xff6f50
+size = 0x238
+name = "GameStateAPI_ToggleMute"
+type = "long long"
+
+[header]
+name = "GameStateAPI_ToggleMute"
+addr = 0xff6f50
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:08.283029Z
+addr = 0xfa91f0
+size = 0x1af
+name = "GameStateAPI_GetPlayerCharacterItemID"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerCharacterItemID"
+addr = 0xfa91f0
+type = "char *"
+
+[header.args]

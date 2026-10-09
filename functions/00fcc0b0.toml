@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365483Z
+addr = 0xfcc0b0
+size = 0x41
+name = "GameStateAPI_IsXuidValid"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsXuidValid"
+addr = 0xfcc0b0
+type = "bool"
+
+[header.args]

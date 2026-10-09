@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365387Z
+addr = 0xfacbc0
+size = 0xed
+name = "GameStateAPI_GetPlayerTeamName"
+type = "const char *"
+
+[header]
+name = "GameStateAPI_GetPlayerTeamName"
+addr = 0xfacbc0
+type = "const char *"
+
+[header.args]

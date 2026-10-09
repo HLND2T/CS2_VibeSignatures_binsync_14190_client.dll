@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365500Z
+addr = 0xfedfd0
+size = 0x48
+name = "GameStateAPI_SetPlayerVoiceVolume"
+type = "long long"
+
+[header]
+name = "GameStateAPI_SetPlayerVoiceVolume"
+addr = 0xfedfd0
+type = "long long"
+
+[header.args]

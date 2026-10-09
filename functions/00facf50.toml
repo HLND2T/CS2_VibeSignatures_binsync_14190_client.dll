@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365401Z
+addr = 0xfacf50
+size = 0x5a
+name = "GameStateAPI_GetPlayerXuidStringFromPlayerSlot"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerXuidStringFromPlayerSlot"
+addr = 0xfacf50
+type = "char *"
+
+[header.args]

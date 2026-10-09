@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:08.893478Z
+addr = 0xfaa340
+size = 0xd7
+name = "GameStateAPI_GetPlayerDisplayFlairItem"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerDisplayFlairItem"
+addr = 0xfaa340
+type = "char *"
+
+[header.args]

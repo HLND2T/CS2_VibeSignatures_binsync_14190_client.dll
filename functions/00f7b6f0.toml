@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365231Z
+addr = 0xf7b6f0
+size = 0x5a
+name = "GameStateAPI_BIsLocalServerHost"
+type = "bool"
+
+[header]
+name = "GameStateAPI_BIsLocalServerHost"
+addr = 0xf7b6f0
+type = "bool"
+
+[header.args]

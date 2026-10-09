@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365412Z
+addr = 0xfb4ce0
+size = 0x3a
+name = "GameStateAPI_GetTeamLivingPlayerCount"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetTeamLivingPlayerCount"
+addr = 0xfb4ce0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:50:48.365015Z
+addr = 0x14d8e0
+size = 0x3
+name = "IGameSystem_OnClientAdvanceNonRenderedFrame"
+
+[header]
+name = "IGameSystem_OnClientAdvanceNonRenderedFrame"
+addr = 0x14d8e0
+
+[header.args]

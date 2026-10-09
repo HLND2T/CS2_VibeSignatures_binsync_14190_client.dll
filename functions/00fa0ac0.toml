@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365301Z
+addr = 0xfa0ac0
+size = 0x11
+name = "GameStateAPI_GetMapBSPName"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetMapBSPName"
+addr = 0xfa0ac0
+type = "long long"
+
+[header.args]

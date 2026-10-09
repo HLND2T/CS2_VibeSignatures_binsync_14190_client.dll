@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365477Z
+addr = 0xfcb6d0
+size = 0x178
+name = "GameStateAPI_IsReportCategoryEnabledForSelectedPlayer"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsReportCategoryEnabledForSelectedPlayer"
+addr = 0xfcb6d0
+type = "bool"
+
+[header.args]

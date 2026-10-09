@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365424Z
+addr = 0xfb6470
+size = 0x55
+name = "GameStateAPI_GetTournamentEventStage"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetTournamentEventStage"
+addr = 0xfb6470
+type = "char *"
+
+[header.args]

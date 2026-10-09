@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:03.840655Z
+addr = 0xa1c5a0
+size = 0x6e4
+name = "CGameEventManager_UnserializeEvent"
+type = "long long"
+
+[header]
+name = "CGameEventManager_UnserializeEvent"
+addr = 0xa1c5a0
+type = "long long"
+
+[header.args]

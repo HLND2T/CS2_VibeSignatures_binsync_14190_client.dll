@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365371Z
+addr = 0xfaab40
+size = 0xa4
+name = "GameStateAPI_GetPlayerPing"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerPing"
+addr = 0xfaab40
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365434Z
+addr = 0xfb8270
+size = 0xc
+name = "GameStateAPI_HasHalfTime"
+type = "long long"
+
+[header]
+name = "GameStateAPI_HasHalfTime"
+addr = 0xfb8270
+type = "long long"
+
+[header.args]

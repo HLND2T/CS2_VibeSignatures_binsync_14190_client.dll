@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:11.464561Z
+addr = 0xfcb490
+size = 0x27
+name = "GameStateAPI_IsQueuedMatchmakingMode_Team"
+type = "bool"
+
+[header]
+name = "GameStateAPI_IsQueuedMatchmakingMode_Team"
+addr = 0xfcb490
+type = "bool"
+
+[header.args]

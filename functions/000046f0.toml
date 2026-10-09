@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.364942Z
+addr = 0x46f0
+size = 0x22f
+name = "SendViolationReport"
+type = "char"
+
+[header]
+name = "SendViolationReport"
+addr = 0x46f0
+type = "char"
+
+[header.args]

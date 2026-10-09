@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365507Z
+addr = 0xff4880
+size = 0x284
+name = "GameStateAPI_SubmitPlayerReport"
+type = "unsigned long long"
+
+[header]
+name = "GameStateAPI_SubmitPlayerReport"
+addr = 0xff4880
+type = "unsigned long long"
+
+[header.args]

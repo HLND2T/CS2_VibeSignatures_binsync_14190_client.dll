@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365306Z
+addr = 0xfa3290
+size = 0x20
+name = "GameStateAPI_GetMapName"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetMapName"
+addr = 0xfa3290
+type = "long long"
+
+[header.args]

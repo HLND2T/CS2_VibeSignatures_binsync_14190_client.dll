@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:02.851266Z
+addr = 0x355880
+size = 0x156
+name = "IGameSystem_AddByName"
+type = "long long"
+
+[header]
+name = "IGameSystem_AddByName"
+addr = 0x355880
+type = "long long"
+
+[header.args]

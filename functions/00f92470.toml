@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365273Z
+addr = 0xf92470
+size = 0x9f
+name = "GameStateAPI_GetCoachingTeamNumber"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetCoachingTeamNumber"
+addr = 0xf92470
+type = "long long"
+
+[header.args]

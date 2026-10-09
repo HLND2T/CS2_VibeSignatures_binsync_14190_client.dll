@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365495Z
+addr = 0xfec6f0
+size = 0xd5
+name = "GameStateAPI_SetCasterIsCameraman"
+type = "long long"
+
+[header]
+name = "GameStateAPI_SetCasterIsCameraman"
+addr = 0xfec6f0
+type = "long long"
+
+[header.args]

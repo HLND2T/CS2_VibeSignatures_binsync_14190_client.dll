@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365361Z
+addr = 0xfaa4d0
+size = 0xb1
+name = "GameStateAPI_GetPlayerLifetime"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerLifetime"
+addr = 0xfaa4d0
+type = "long long"
+
+[header.args]

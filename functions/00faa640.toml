@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365365Z
+addr = 0xfaa640
+size = 0xed
+name = "GameStateAPI_GetPlayerModel"
+type = "char *"
+
+[header]
+name = "GameStateAPI_GetPlayerModel"
+addr = 0xfaa640
+type = "char *"
+
+[header.args]

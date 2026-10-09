@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:50:48.364984Z
+addr = 0x14d780
+size = 0x3
+name = "IGameSystem_OnClientPreRenderAlt"
+
+[header]
+name = "IGameSystem_OnClientPreRenderAlt"
+addr = 0x14d780
+
+[header.args]

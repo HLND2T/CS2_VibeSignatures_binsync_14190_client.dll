@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365486Z
+addr = 0xfcd630
+size = 0x13c7
+name = "GameStateAPI_RegisterAPIs"
+type = "long long"
+
+[header]
+name = "GameStateAPI_RegisterAPIs"
+addr = 0xfcd630
+type = "long long"
+
+[header.args]

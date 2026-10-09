@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365399Z
+addr = 0xface50
+size = 0xa7
+name = "GameStateAPI_GetPlayerXpTrailLevel"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerXpTrailLevel"
+addr = 0xface50
+type = "long long"
+
+[header.args]

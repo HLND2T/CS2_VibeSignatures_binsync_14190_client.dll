@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:09.554571Z
+addr = 0xfab0f0
+size = 0x13f3
+name = "GameStateAPI_GetPlayerStatsJSO"
+type = "unsigned long long **"
+
+[header]
+name = "GameStateAPI_GetPlayerStatsJSO"
+addr = 0xfab0f0
+type = "unsigned long long **"
+
+[header.args]

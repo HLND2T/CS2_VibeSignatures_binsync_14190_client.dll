@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:50:48.365237Z
+addr = 0xf8e2d0
+size = 0x44
+name = "GameStateAPI_GetActiveQuestID"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetActiveQuestID"
+addr = 0xf8e2d0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:50:48.365008Z
+addr = 0x14d870
+size = 0x3
+name = "IGameSystem_OnClientPostAdvanceTick"
+
+[header]
+name = "IGameSystem_OnClientPostAdvanceTick"
+addr = 0x14d870
+
+[header.args]

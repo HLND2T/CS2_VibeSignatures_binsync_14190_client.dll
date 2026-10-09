@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:07.283862Z
+addr = 0xf98100
+size = 0x14a
+name = "GameStateAPI_GetGameModeImagePath"
+type = "long long *"
+
+[header]
+name = "GameStateAPI_GetGameModeImagePath"
+addr = 0xf98100
+type = "long long *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:08.666066Z
+addr = 0xfa9950
+size = 0x27f
+name = "GameStateAPI_GetPlayerCompetitiveRanking"
+type = "long long"
+
+[header]
+name = "GameStateAPI_GetPlayerCompetitiveRanking"
+addr = 0xfa9950
+type = "long long"
+
+[header.args]

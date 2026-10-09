@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:08.950376Z
+addr = 0xfaa420
+size = 0xa8
+name = "GameStateAPI_GetPlayerKills"
+type = "unsigned int"
+
+[header]
+name = "GameStateAPI_GetPlayerKills"
+addr = 0xfaa420
+type = "unsigned int"
+
+[header.args]

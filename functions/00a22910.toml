@@ -1,0 +1,12 @@
+last_change = 2026-10-09T11:51:04.005237Z
+addr = 0xa22910
+size = 0x68
+name = "CLoopModeFactory_CLoopModeGame_Shutdown"
+type = "long long"
+
+[header]
+name = "CLoopModeFactory_CLoopModeGame_Shutdown"
+addr = 0xa22910
+type = "long long"
+
+[header.args]

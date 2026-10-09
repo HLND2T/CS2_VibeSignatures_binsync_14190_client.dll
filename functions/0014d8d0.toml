@@ -1,0 +1,10 @@
+last_change = 2026-10-09T11:50:48.365012Z
+addr = 0x14d8d0
+size = 0x3
+name = "IGameSystem_OnClientPauseSimulate"
+
+[header]
+name = "IGameSystem_OnClientPauseSimulate"
+addr = 0x14d8d0
+
+[header.args]
